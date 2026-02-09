@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Simon Grateloube
+# 👋 Bonjour, je suis Simon 
 
 Étudiant en **BTS SIO SLAM** (Services Informatiques aux Organisations - Solutions Logicielles et Applications Métier), passionné par le développement web et la cybersécurité. Je recherche activement un **stage** pour mettre en pratique mes compétences et contribuer à des projets innovants.
 
@@ -6,14 +6,15 @@
 
 ## 🙋‍♂️ À propos de moi
 
-Développeur en formation avec une forte appétence pour la création d'applications web modernes et sécurisées. Mon parcours en BTS SIO SLAM me permet d'allier compétences techniques et vision métier.
+Développeur en formation avec une forte appétence pour la création d'applications web. Mon parcours en BTS SIO SLAM me permet d'allier compétences techniques et vision métier.
 
 **Mes domaines d'expertise :**
 - 🌐 Développement web front-end (React, JavaScript, HTML/CSS)
 - 🔐 Cybersécurité et gestion des accès
 - 💾 Gestion de bases de données
+- 📱 Développement d'applications
 
-Mon objectif est d'intégrer une équipe dynamique où je pourrai contribuer à des projets concrets tout en continuant à développer mes compétences techniques.
+Mon objectif est d'intégrer une équipe dynamique où je pourrai contribuer à des projets concrets tout en continuant à développer mes compétences techniques et à relever de nouveaux défis.
 
 ---
 
@@ -25,13 +26,16 @@ Mon objectif est d'intégrer une équipe dynamique où je pourrai contribuer à 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Bases de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Outils & Technologies
 
@@ -39,38 +43,73 @@ Mon objectif est d'intégrer une équipe dynamique où je pourrai contribuer à 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Domaines de compétences
 
 - 🌐 **Développement Web** - Création d'applications web modernes et responsive
-- 🔐 **Cybersécurité** - Sécurisation des applications et gestion des accès
-- 💾 **Bases de données** - Conception, administration et optimisation
+- 💾 **Bases de données** - Conception, administration et optimisation SQL
+- 📱 **Mobile** - Développement d'applications cross-platform
 
 ---
 
 ## 💼 Projets Réalisés
 
+### 🌐 Site Vitrine Professionnel
+Création d'un site vitrine moderne et responsive pour présenter une entreprise avec un design élégant et une navigation fluide.
+
+**Technologies :** HTML, CSS, JavaScript  
+**Fonctionnalités :**
+- Design moderne et responsive adapté à tous les écrans
+- Navigation intuitive et animations fluides
+- Optimisation SEO et performances
+- Formulaire de contact intégré
+
+---
+
+### 📝 Application de Formulaires Numériques
+Application web permettant de créer, remplir et gérer des formulaires au format numérique pour digitaliser les processus administratifs.
+
+**Technologies :** HTML, CSS, JavaScript  
+**Caractéristiques :**
+- Interface intuitive de création de formulaires
+- Gestion dynamique des champs
+- Sauvegarde et export des données
+- Validation automatique des entrées
+
+---
+
+### 📱 Application Mobile de Gestion de Tâches
+Application mobile cross-platform pour la gestion de tâches quotidiennes avec synchronisation cloud (en cours de développement).
+
+**Technologies :** React Native, Firebase  
+**Fonctionnalités :**
+- Interface native iOS et Android
+- Synchronisation temps réel avec Firebase
+- Gestion de listes et catégories
+- Notifications push
+
+---
+
 ### 🔒 Système de Gestion d'Accès Sécurisé
 Développement d'un portail de gestion des accès permettant d'administrer les permissions utilisateurs avec authentification multi-niveaux.
 
 **Technologies :** HTML5, CSS3, JavaScript, PHP, MySQL  
-**Fonctionnalités :**
+**Points forts :**
 - Authentification sécurisée et gestion de sessions
 - Interface d'administration des droits utilisateurs
 - Logs et traçabilité des accès
-- Design moderne et responsive
+- Protection contre les vulnérabilités courantes
 
 ---
 
-### 🌍 Portfolio Interactif
-Création d'un portfolio personnel moderne avec animations fluides et design responsive.
+### 🎨 Portfolio Interactif
+Création d'un portfolio personnel moderne avec animations 3D, effets de parallaxe et design immersif.
 
-**Technologies :** React, JavaScript, Tailwind CSS, HTML5  
+**Technologies :** React, JavaScript, Tailwind CSS  
 **Caractéristiques :**
-- Interface dynamique et animations avancées
-- Design moderne avec effets de parallaxe
-- Formulaire de contact intégré
+- Interface dynamique avec animations avancées
+- Effets 3D et parallaxe
+- Design moderne et responsive
 - Optimisation des performances
 
 ---
@@ -81,8 +120,8 @@ Création d'un portfolio personnel moderne avec animations fluides et design res
 *Option : Solutions Logicielles et Applications Métier*
 
 **Compétences développées :**
-- Développement d'applications
-- Gestion de bases de données
+- Développement d'applications web et mobiles
+- Gestion et administration de bases de données
 - Cybersécurité et protection des données
 - Gestion de projet informatique
 
@@ -93,18 +132,18 @@ Création d'un portfolio personnel moderne avec animations fluides et design res
 Je suis activement à la recherche d'un **stage** ou d'une **alternance** en développement web ou cybersécurité.
 
 - 📧 **Email :** [sgrateloube@lerebours.fr](mailto:sgrateloube@lerebours.fr)
-- 💼 **LinkedIn :** (https://www.linkedin.com/in/simon-grateloube-b74918386/)
-- 🌐 **Portfolio :** (https://simon-grtl.github.io/)
-- 💻 **GitHub :** [github.com/SimonGrateloube](https://github.com/Simon-grtl)
+- 💼 **LinkedIn :** [Simon Grateloube](https://www.linkedin.com/in/simon-grateloube-b74918386/)
+- 🌐 **Portfolio :** [Voir mon portfolio](https://simongrateloube.fr)
+- 💻 **GitHub :** Vous y êtes ! 👋
 
 ---
 
 ## 🎯 Objectifs Professionnels
 
 Je recherche une entreprise dynamique où je pourrai :
-- Mettre en pratique mes compétences en développement web
+- Mettre en pratique mes compétences en développement web et mobile
 - Participer à des projets innovants et stimulants
-- Approfondir mes connaissances en cybersécurité
+- Approfondir mes connaissances 
 - Évoluer dans un environnement technique exigeant
 - Contribuer activement aux objectifs de l'équipe
 
@@ -118,7 +157,8 @@ Je recherche une entreprise dynamique où je pourrai :
 
 <div align="center">
   
-**Disponible pour un stage ou une alternance** 🚀
+**Disponible pour un stage** 🚀  
+*Étudiant BTS SIO SLAM - Développement Web & Cybersécurité*
 
 </div>
 
