@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Simon Grateloube</h1>
+<h1 align="center">Salut 👋, moi c'est simon-grtl</h1>
 <h3 align="center">Étudiant en Informatique | Développement | Cybersécurité | IA</h3>
 
 <p align="center">
