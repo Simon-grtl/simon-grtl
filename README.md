@@ -132,8 +132,8 @@ Création d'un portfolio personnel moderne avec animations 3D, effets de paralla
 Je suis activement à la recherche d'un **stage** ou d'une **alternance** en développement web ou cybersécurité.
 
 - 📧 **Email :** [sgrateloube@lerebours.fr](mailto:sgrateloube@lerebours.fr)
-- 💼 **LinkedIn :** [Simon Grateloube](https://www.linkedin.com/in/simon-grateloube-b74918386/)
-- 🌐 **Portfolio :** [Voir mon portfolio](https://simongrateloube.fr)
+- 💼 **LinkedIn :** (https://www.linkedin.com/in/simon-grateloube-b74918386/)
+- 🌐 **Portfolio :** (https://simongrateloube.fr)
 - 💻 **GitHub :** Vous y êtes ! 👋
 
 ---
