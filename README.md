@@ -1,18 +1,18 @@
-<h1 align="center">Salut 👋, moi c'est simon-grtl</h1>
-<h3 align="center">Étudiant en Informatique | Développement | Cybersécurité | IA</h3>
+<h1 align="center">Salut 👋, moi c'est Simon</h1>
+<h3 align="center">Étudiant BTS SIO | Développement | Cybersécurité</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=simon-grtl&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
 
 ## 🚀 À propos de moi
-- 🎓 Étudiant en informatique  
-- 💻 Développement Web / Applications  
-- 🔐 Passionné par la cybersécurité  
-- 🤖 Intéressé par l'intelligence artificielle  
-- 📚 Apprentissage continu de nouvelles technologies  
+- 🎓 Étudiant en **BTS SIO**
+- 💻 Développement Web et applications
+- 🔐 Intéressé par la **cybersécurité**
+- ⚙️ Réalisation de projets techniques professionnels
+- 📚 Apprentissage continu des technologies IT
 
 ---
 
@@ -25,39 +25,35 @@
 
 ## 📊 Statistiques GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=simon-grtl&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simon-grtl&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak contributions
+## 🔥 Contributions
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simon-grtl&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Trophées GitHub
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=onedark" />
-</p>
-
----
-
-## 📂 Projets principaux
+## 🏆 Projets principaux
 - 🔐 Portail de gestion des accès sécurité
-- 🌐 Applications Web HTML / CSS / JS
-- ⚙️ Projets Python
+- 🌐 Applications Web HTML / CSS / JavaScript
+- ⚙️ Scripts et outils Python
 - 🛡️ Projets cybersécurité
 
 ---
 
-## 📫 Me contacter
-- LinkedIn : https://www.linkedin.com/in/simon-grateloube-b74918386/
-- Email : grateloubesimon@gmail.com
+## 📫 Contact
+- LinkedIn : à ajouter
+- Email : à ajouter
+
+---
 
 ⭐ Merci de visiter mon profil !
+
 
 
 <!--
