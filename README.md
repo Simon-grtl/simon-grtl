@@ -141,7 +141,7 @@ Je suis activement à la recherche d'un **stage** ou d'une **alternance** en dé
 ## 🎯 Objectifs Professionnels
 
 Je recherche une entreprise dynamique où je pourrai :
-- Mettre en pratique mes compétences en développement web et mobile
+- Mettre en pratique mes compétences en développement
 - Participer à des projets innovants et stimulants
 - Approfondir mes connaissances 
 - Évoluer dans un environnement technique exigeant
