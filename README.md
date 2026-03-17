@@ -147,8 +147,6 @@ Je recherche une entreprise dynamique où je pourrai :
 
 > *« Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais. »* — Cory House
 
-⭐ N'hésitez pas à explorer mes repositories et à me contacter pour toute opportunité de collaboration !
-
 ---
 
 <div align="center">
