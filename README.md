@@ -129,8 +129,8 @@ Je suis activement à la recherche d'un **stage** ou d'une **alternance** en dé
 
 - 📧 **Email :** [sgrateloube@lerebours.fr](mailto:sgrateloube@lerebours.fr)
 - 💼 **LinkedIn :** (https://www.linkedin.com/in/simon-grateloube-b74918386/)
-- 🌐 **Portfolio :** ( https://simon-grtl.github.io/Portfollio/ )
-- 💻 **GitHub :** Vous y êtes ! 👋
+- 🌐 **Portfolio :** ( https://simon.sitecreator.shop/#top )
+- 💻 **GitHub :** Vous y êtes ! 
 
 ---
 
