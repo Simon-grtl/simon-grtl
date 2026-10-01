@@ -1,149 +1,50 @@
-# 👋 Bonjour, je suis Simon 
+## Bonjour, ravi de te rencontrer !
 
-Étudiant en **BTS SIO SLAM** (Services Informatiques aux Organisations - Solutions Logicielles et Applications Métier), passionné par le développement web et la cybersécurité. Je recherche activement un **stage** pour mettre en pratique mes compétences et contribuer à des projets innovants.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Simon&fontSize=60&fontColor=ffffff" alt="banner" />
+</p>
 
----
+Je m'appelle Simon, j'ai [XX] ans et je suis étudiant en **BTS SIO** option **SLAM** (Solutions Logicielles et Applications Métier).
+Ce qui me passionne, c'est le **développement web**, aussi bien côté front que back, ainsi que la **cybersécurité**. J'aime comprendre comment une application fonctionne de bout en bout, de l'interface jusqu'à la base de données, et surtout comment la protéger.
 
-## 🙋‍♂️ À propos de moi
+J'ai commencé à coder [vers XX ans / au lycée] avec [premier langage ou projet]. Mon BTS m'a ensuite fait découvrir **PHP**, **SQL** et **Java**, et aujourd'hui je passe le plus clair de mon temps sur **JavaScript** et **React**.
 
-Développeur en formation avec une forte appétence pour la création d'applications web. Mon parcours en BTS SIO SLAM me permet d'allier compétences techniques et vision métier.
+Je travaille sur des projets scolaires comme personnels. Parmi ceux dont je suis le plus fier, il y a mon **[Système de gestion d'accès](https://github.com/Simon-grtl/LIEN-DU-REPO)**, un portail en PHP/MySQL avec authentification, gestion des droits utilisateurs et journalisation des accès, pensé dès le départ pour résister aux failles courantes.
+Je développe aussi **[une application mobile de gestion de tâches](https://github.com/Simon-grtl/LIEN-DU-REPO)** en React Native avec Firebase, synchronisée en temps réel (en cours de développement), et mon **[portfolio](https://simon.sitecreator.shop/#top)** en React et Tailwind CSS.
 
-**Mes domaines d'expertise :**
-- 🌐 Développement web front-end (React, JavaScript, HTML/CSS)
-- 🔐 Cybersécurité et gestion des accès
-- 💾 Gestion de bases de données
-- 📱 Développement d'applications
+### Ambitions
 
-Mon objectif est d'intégrer une équipe dynamique où je pourrai contribuer à des projets concrets tout en continuant à développer mes compétences techniques et à relever de nouveaux défis.
+Je veux concevoir des applications utiles, fiables et sécurisées, celles qu'on utilise au quotidien sans jamais se demander si nos données sont en danger. Je suis actuellement à la recherche d'un **stage** ou d'une **alternance** en développement web ou en cybersécurité.
 
----
+### Systèmes d'exploitation
 
-## 🛠️ Compétences Techniques
+J'utilise [Windows/Linux] au quotidien, mais j'ai travaillé avec tous les OS ci-dessous
 
-### Langages & Frameworks
+[![OSs](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Langages de programmation
 
-### Bases de données
+[![Languages](https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql)](https://skillicons.dev)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Frameworks & Outils
 
-### Outils & Technologies
+[![Tools](https://skillicons.dev/icons?i=react,tailwind,firebase,git,github,vscode)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Centres d'intérêt
 
-### Domaines de compétences
+- 🔐 Curieux de tout ce qui touche à la sécurité informatique : failles web, CTF, bonnes pratiques.
+- 🎨 [Intérêt n°2, ex. : design d'interfaces, UI/UX]
+- 🎮 [Intérêt n°3, ex. : jeux vidéo]
+- ⚽ [Intérêt n°4, ex. : sport]
+- 🎧 [Intérêt n°5, ex. : musique]
 
-- 🌐 **Développement Web** - Création d'applications web modernes et responsive
-- 💾 **Bases de données** - Conception, administration et optimisation SQL
-- 📱 **Mobile** - Développement d'applications cross-platform
+### Me contacter
 
----
+- 💼 LinkedIn : [simon-grateloube](https://www.linkedin.com/in/simon-grateloube-b74918386/)
+- 🌐 Portfolio : [simon.sitecreator.shop](https://simon.sitecreator.shop/#top)
+- 📧 Email : sgrateloube@lerebours.fr
 
-## 💼 Projets Réalisés
-
-### 🌐 Site Vitrine Professionnel
-Création d'un site vitrine moderne et responsive pour présenter une entreprise avec un design élégant et une navigation fluide.
-
-**Technologies :** HTML, CSS, JavaScript  
-**Fonctionnalités :**
-- Design moderne et responsive adapté à tous les écrans
-- Navigation intuitive et animations fluides
-- Optimisation SEO et performances
-- Formulaire de contact intégré
-
----
-
-### 📝 Application de Formulaires Numériques
-Application web permettant de créer, remplir et gérer des formulaires au format numérique pour digitaliser les processus administratifs.
-
-**Technologies :** HTML, CSS, JavaScript  
-**Caractéristiques :**
-- Interface intuitive de création de formulaires
-- Gestion dynamique des champs
-- Sauvegarde et export des données
-- Validation automatique des entrées
-
----
-
-### 📱 Application Mobile de Gestion de Tâches
-Application mobile cross-platform pour la gestion de tâches quotidiennes avec synchronisation cloud (en cours de développement).
-
-**Technologies :** React Native, Firebase  
-**Fonctionnalités :**
-- Interface native iOS et Android
-- Synchronisation temps réel avec Firebase
-- Gestion de listes et catégories
-- Notifications push
-
----
-
-### 🔒 Système de Gestion d'Accès Sécurisé
-Développement d'un portail de gestion des accès permettant d'administrer les permissions utilisateurs avec authentification multi-niveaux.
-
-**Technologies :** HTML5, CSS3, JavaScript, PHP, MySQL  
-**Points forts :**
-- Authentification sécurisée et gestion de sessions
-- Interface d'administration des droits utilisateurs
-- Logs et traçabilité des accès
-- Protection contre les vulnérabilités courantes
-
----
-
-### 🎨 Portfolio Interactif
-Création d'un portfolio personnel moderne avec animations 3D, effets de parallaxe et design immersif.
-
-**Technologies :** React, JavaScript, Tailwind CSS  
-**Caractéristiques :**
-- Interface dynamique avec animations avancées
-- Effets 3D et parallaxe
-- Design moderne et responsive
-- Optimisation des performances
-
----
-
-## 🎓 Formation
-
-**BTS SIO SLAM** - Services Informatiques aux Organisations  
-*Option : Solutions Logicielles et Applications Métier*
-
-**Compétences développées :**
-- Développement d'applications web et mobiles
-- Gestion et administration de bases de données
-- Cybersécurité et protection des données
-- Gestion de projet informatique
-
----
-
-## 📫 Me Contacter
-
-Je suis activement à la recherche d'un **stage** ou d'une **alternance** en développement web ou cybersécurité.
-
-- 📧 **Email :** [sgrateloube@lerebours.fr](mailto:sgrateloube@lerebours.fr)
-- 💼 **LinkedIn :** (https://www.linkedin.com/in/simon-grateloube-b74918386/)
-- 🌐 **Portfolio :** ( https://simon.sitecreator.shop/#top )
-- 💻 **GitHub :** Vous y êtes ! 
-
----
-
-## 🎯 Objectifs Professionnels
-
-Je recherche une entreprise dynamique où je pourrai :
-- Mettre en pratique mes compétences en développement
-- Participer à des projets innovants et stimulants
-- Approfondir mes connaissances 
-- Évoluer dans un environnement technique exigeant
-- Contribuer activement aux objectifs de l'équipe
-
----
+N'hésite pas à explorer mes dépôts, je suis toujours ouvert aux collaborations et aux nouvelles opportunités.
 
 > *« Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais. »* — Cory House
 
