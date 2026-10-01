@@ -14,13 +14,13 @@ Je développe aussi **[une application mobile de gestion de tâches](https://git
 
 ### Ambitions
 
-Je veux concevoir des applications utiles, fiables et sécurisées, celles qu'on utilise au quotidien sans jamais se demander si nos données sont en danger. Je suis actuellement à la recherche d'un **stage** ou d'une **alternance** en développement web ou en cybersécurité.
+Je veux concevoir des applications utiles, fiables et sécurisées, celles qu'on utilise au quotidien sans jamais se demander si nos données sont en danger. Je suis actuellement à la recherche d'une **alternance** en développement web ou en cybersécurité pour l'année scolaire 2027/2028.
 
 ### Systèmes d'exploitation
 
-J'utilise [Windows/Linux] au quotidien, mais j'ai travaillé avec tous les OS ci-dessous
+J'utilise Windows/Linux au quotidien, mais j'ai travaillé avec tous les OS ci-dessous
 
-[![OSs](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+[![OSs](https://skillicons.dev/icons?i=windows,linux,cachyos)](https://skillicons.dev)
 
 ### Langages de programmation
 
