@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Simon&fontSize=60&fontColor=ffffff" alt="banner" />
 </p>
 
-Je m'appelle Simon, j'ai [XX] ans et je suis étudiant en **BTS SIO** option **SLAM** (Solutions Logicielles et Applications Métier).
+Je m'appelle Simon, j'ai 19 ans et je suis étudiant en **BTS SIO** option **SLAM** (Solutions Logicielles et Applications Métier).
 Ce qui me passionne, c'est le **développement web**, aussi bien côté front que back, ainsi que la **cybersécurité**. J'aime comprendre comment une application fonctionne de bout en bout, de l'interface jusqu'à la base de données, et surtout comment la protéger.
 
-J'ai commencé à coder [vers XX ans / au lycée] avec [premier langage ou projet]. Mon BTS m'a ensuite fait découvrir **PHP**, **SQL** et **Java**, et aujourd'hui je passe le plus clair de mon temps sur **JavaScript** et **React**.
+J'ai commencé à coder vers 16ans au lycée avec python. Mon BTS m'a ensuite fait découvrir **PHP**, **SQL** et **Java**, et aujourd'hui je passe le plus clair de mon temps sur **JavaScript**, **React** et **php**.
 
 Je travaille sur des projets scolaires comme personnels. Parmi ceux dont je suis le plus fier, il y a mon **[Système de gestion d'accès](https://github.com/Simon-grtl/LIEN-DU-REPO)**, un portail en PHP/MySQL avec authentification, gestion des droits utilisateurs et journalisation des accès, pensé dès le départ pour résister aux failles courantes.
 Je développe aussi **[une application mobile de gestion de tâches](https://github.com/Simon-grtl/LIEN-DU-REPO)** en React Native avec Firebase, synchronisée en temps réel (en cours de développement), et mon **[portfolio](https://simon.sitecreator.shop/#top)** en React et Tailwind CSS.
