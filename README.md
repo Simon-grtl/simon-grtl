@@ -33,10 +33,9 @@ J'utilise Windows/Linux au quotidien, mais j'ai travaillé avec tous les OS ci-d
 ### Centres d'intérêt
 
 - 🔐 Curieux de tout ce qui touche à la sécurité informatique : failles web, CTF, bonnes pratiques.
-- 🎨 [Intérêt n°2, ex. : design d'interfaces, UI/UX]
-- 🎮 [Intérêt n°3, ex. : jeux vidéo]
-- ⚽ [Intérêt n°4, ex. : sport]
-- 🎧 [Intérêt n°5, ex. : musique]
+- 🎮 jeux vidéo
+- ⚽ sport
+- 🎧 musique
 
 ### Me contacter
 
@@ -52,7 +51,7 @@ N'hésite pas à explorer mes dépôts, je suis toujours ouvert aux collaboratio
 
 <div align="center">
   
-**Disponible pour un stage** 🚀  
+**Disponible pour une alternance** 
 *Étudiant BTS SIO SLAM - Développement Web & Cybersécurité*
 
 </div>
