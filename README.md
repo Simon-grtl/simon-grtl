@@ -1,5 +1,5 @@
 Bonjour, ravi de te rencontrer !
-<img align="right" src="https://raw.githubusercontent.com/Simon-grtl/Simon-grtl/main/subnautica.png" width="280" alt="Fanart Subnautica" />
+<img align="right" src="subnautica.png" width="280" alt="Fanart Subnautica" />
 
 Je m'appelle Simon, j'ai 19 ans et je suis étudiant en BTS SIO option SLAM (Solutions Logicielles et Applications Métier). Ce qui me passionne, c'est le développement web, aussi bien côté front que back, ainsi que la cybersécurité. J'aime comprendre comment une application fonctionne de bout en bout, de l'interface jusqu'à la base de données, et surtout comment la protéger.
 
