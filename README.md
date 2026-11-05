@@ -16,7 +16,7 @@ Systèmes d'exploitation
 
 J'utilise Windows et Linux au quotidien, mais j'ai travaillé avec tous les OS ci-dessous
 
-<p><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="OS" /></p>
+<p><img src="https://skillicons.dev/icons?i=windows,linux,cachy" alt="OS" /></p>
 Langages de programmation
 <p><img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql" alt="Langages" /></p>
 Frameworks & Outils
